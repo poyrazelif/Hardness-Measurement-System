@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        "TIS.Imaging.ICImagingControl35"
+    </assembly>
+    <members>
+        <member name="P:TIS.Imaging.FrameNotificationSink.OutputFrameType">
+            <summary>
+  Returns the current FrameType. When this is running/build it returns the FrameType of the ImageBuffers
+  otherwise it returns the first FrameType of the FrameTypes().
+</summary>
+        </member>
+        <member name="T:TIS.Imaging.FrameNotificationSink">
+            <summary>
+  FrameNotificationSink class can be used to get overhead free access to the images coming from the camera.
+  You can create an instance of this class via the Create functions.
+</summary>
+        </member>
+        <member name="M:TIS.Imaging.IFrameNotificationSinkListener.FrameReceived(TIS.Imaging.IFrame)">
+            <summary>
+  FrameReceived gets called when a new frame is received.
+  <para>NOTE: the passed in frame gets destroyed after this method returns. So you should not store a reference to this outside of this callback. </para></summary>
+            <param name="frame">
+The frame received.
+</param>
+        </member>
+        <member name="M:TIS.Imaging.IFrameNotificationSinkListener.SinkDisconnected">
+            <summary>
+  SinkDisconnected gets called when the sink is disconnected in LiveStop.
+</summary>
+        </member>
+        <member name="M:TIS.Imaging.IFrameNotificationSinkListener.SinkConnected(TIS.Imaging.FrameType)">
+            <summary>
+  SinkConnected gets called when the sink is connected in LivePrepare or LiveStart.
+</summary>
+            <param name="frameType">
+  The TIS.Imaging.FrameType of the TIS.Imaging.IFrame that will be streamed by this sink.
+</param>
+        </member>
+        <member name="T:TIS.Imaging.IFrameNotificationSinkListener">
+            <summary>
+Derive from this class to receive events from the FrameNotificationSink
+</summary>
+        </member>
+        <member name="T:TIS.Imaging.FrameQueueSink">
+            <summary>
+ Implements a Sink
+</summary>
+        </member>
+        <member name="T:TIS.Imaging.FrameQueuedResult">
+Specifies what to do with the passed in IFrameQueueBuffer after this method returns.
+If you return ReQueue the buffer is re-queued into the FrameQueueSink.
+If you return SkipRequeue, then the function expects the user to either re-queue the buffer by hand or discard the buffer.
+
+</member>
+        <member name="T:TIS.Imaging.ICImagingControl">
+            <summary> 
+Summary for ICImagingControl
+</summary>
+        </member>
+        <member name="T:TIS.Imaging.FrameFilterInfo">
+            <summary>
+Base class for filter information
+</summary>
+        </member>
+        <member name="P:TIS.Imaging.FrameHandlerSink.ImageBuffersAvailable">
+Returns true if at least one ImageBuffer is contained in a ImageBuffers::get call.
+
+</member>
+        <member name="P:TIS.Imaging.FrameHandlerSink.LastAcquiredBuffer">
+Returns the last acquired buffer, or null if no such buffer is available. 
+</member>
+        <member name="M:TIS.Imaging.ICException.create(DShowLib.Error!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
+            <summary>
+ Creates a exception type equivalent to the err.getVal() enum entry.
+ This may be a OutOfMemory or ArgumentException, or in other cases an ICException object.
+</summary>
+        </member>
+        <member name="F:TIS.Imaging.DriverFrameDropInformationData.FramesDroppedDueUnspecified">
+Frames dropped due to unspecified circumstances (mostly a cop out when the driver does not provide the actual drop info)
+
+</member>
+        <member name="F:TIS.Imaging.DriverFrameDropInformationData.FramesDroppedDueToApplicationQueue">
+Frames dropped due to overrunning queue on the application side. Mostly due to Callbacks taking to much time to copy data from driver buffers into application buffers
+
+</member>
+        <member name="F:TIS.Imaging.DriverFrameDropInformationData.FramesDroppedDueToTransforms">
+Frames dropped in the driver, most likely because the system is too slow to transform the images from the transport format into the actual exported format.
+
+</member>
+        <member name="F:TIS.Imaging.DriverFrameDropInformationData.FramesDroppedDueToPacketLoss">
+Frames dropped due to incomplete data received, either because of bandwidth problems or problems with the transportation medium
+
+</member>
+        <member name="F:TIS.Imaging.DriverFrameDropInformationData.FramesDroppedInDevice">
+Frames dropped in the device itself
+
+</member>
+        <member name="F:TIS.Imaging.DriverFrameDropInformationData.FramesDelivered">
+Frames delivered at the highest driver level before handing of to DirectShow/ICImagingControl
+
+</member>
+        <member name="T:TIS.Imaging.FrameQueueBufferImpl">
+Internal class only used in FrameQueueBuffer::Create
+</member>
+        <member name="P:TIS.Imaging.IFrameQueueBuffer.Tag">
+            <summary>
+The tag can be set by the user to allow tracking of IFrameQueueBuffer instances.
+E.g. tracking self allocated buffers.
+</summary>
+        </member>
+        <member name="M:TIS.Imaging.copy_frame_wo_checking(TIS.Imaging.IFrame,TIS.Imaging.IFrame)">
+Copy frame meta data and the Ptr contents from src to dst without checking that the FrameTypes match
+
+</member>
+        <member name="M:TIS.Imaging.FrameExtensions.SaveAsTiff(TIS.Imaging.IFrame,System.String)">
+            <summary>
+   Saves the frame contents in a TIFF file.
+</summary>
+            <param name="filename">Specifies the path to the destination file</param>
+        </member>
+        <member name="M:TIS.Imaging.FrameExtensions.SaveAsJpeg(TIS.Imaging.IFrame,System.String,System.Int32)">
+            <summary>
+    Saves the frm parameter into a Jpeg file.
+</summary>
+            <param name="quality">Specifies the JPEG quality in the range of [0;100] </param>
+        </member>
+        <member name="M:TIS.Imaging.FrameExtensions.SaveAsBitmap(TIS.Imaging.IFrame,System.String,TIS.Imaging.ICImagingControlColorformats)">
+            <summary>
+    Saves the frm parameter into a Bitmap file of the type passed in fmt.
+    E.g. You can save a Y800 IFrame into a RGB24 formated bitmap file.
+</summary>
+        </member>
+        <member name="M:TIS.Imaging.FrameExtensions.SaveAsBitmap(TIS.Imaging.IFrame,System.String)">
+            <summary>
+    Saves the frm parameter into a Bitmap file.
+</summary>
+        </member>
+        <member name="M:TIS.Imaging.FrameExtensions.CreateBitmapCopy(TIS.Imaging.IFrame)">
+            <summary>
+    Creates a new Bitmap object which copies the contents of the IFrame parameter.
+</summary>
+        </member>
+        <member name="M:TIS.Imaging.FrameExtensions.CreateBitmapWrap(TIS.Imaging.IFrame)">
+            <summary>
+    Creates a <apiname>System.Drawing.Bitmap</apiname> object which internally points to the same memory as the IFrame.
+    This means that the IFrame must 'live' at least as long as the returned Bitmap and if the contents of the IFrame changes, the contents of the Bitmap does too.
+</summary>
+        </member>
+        <member name="P:TIS.Imaging.IFrame.AdditionalFrameDataBlob">
+            <summary>
+  Contains additional frame specific data blob.
+</summary>
+        </member>
+        <member name="P:TIS.Imaging.IFrame.FrameMetadata">
+            <summary>
+  Contains frame meta data.
+</summary>
+        </member>
+        <member name="M:TIS.Imaging.IFrame.CopyFrom(TIS.Imaging.IFrame)">
+            <summary>
+  Copies the contents of src into this frame.
+This may throw NotImplemented when this IFrame cannot be copied into.
+</summary>
+        </member>
+        <member name="P:TIS.Imaging.IFrame.ActualDataSize">
+            <summary>
+  Actual data size in this frame.
+	This can differ from FrameType.BufferSize for compressed formats.
+Note: The value on set may be ignored when accessing an input frame
+</summary>
+        </member>
+        <member name="T:TIS.Imaging.IFrame">
+            <summary>
+  Interface for frames used in the library. 
+  <para /> Do not directly inherit from this interface, inherit from TIS.Imaging.UserFrame or TIS.Imaging.FrameQueueBufferBase when you need to
+  create a user object.
+</summary>
+        </member>
+        <member name="P:TIS.Imaging.FrameMetadata.MediaSampleInfoFlags">
+            <summary>
+  Contains frame device/driver specific flags.
+</summary>
+        </member>
+        <member name="P:TIS.Imaging.FrameMetadata.DeviceFrameNumber">
+            <summary>
+  Contains the frame number of this frame as specified by the device. 
+<para>Note: This may be 0 when the device does not track the frame number.</para></summary>
+        </member>
+        <member name="P:TIS.Imaging.FrameMetadata.DeviceTimeStamp">
+            <summary>
+  Contains the time stamp of this frame as specified by the device. 
+<para>Note: This may be 0 when the device does not pass timestamps to the driver. This is supplied in device dependent time units.</para></summary>
+        </member>
+        <member name="P:TIS.Imaging.FrameMetadata.DriverFrameLastPacketTime">
+            <summary>
+  The time at which the last packet of this frame was received by the driver.
+<para>Note: This may be 0 when the driver does not track this time.</para><para>Note: The time source is driver specific.</para></summary>
+        </member>
+        <member name="P:TIS.Imaging.FrameMetadata.DriverFrameFirstPacketTime">
+            <summary>
+  The time at which the first packet of this frame was received by the driver.
+<para>Note: This may be 0 when the driver does not track this time.</para><para>Note: The time source is driver specific.</para></summary>
+        </member>
+        <member name="P:TIS.Imaging.FrameMetadata.DriverFrameNumber">
+            <summary>
+  The frame number the driver assigned this to frame.
+</summary>
+        </member>
+        <member name="P:TIS.Imaging.FrameMetadata.SampleFlags">
+            <summary>
+  Flags specific to the device/driver.
+</summary>
+        </member>
+        <member name="P:TIS.Imaging.FrameMetadata.SampleStartTime">
+            <summary>
+  Contains the graph time at which this frame was passed into the DirectShow graph.
+<para>May be 0 when not accessible </para></summary>
+        </member>
+        <member name="T:TIS.Imaging.FrameMetadata">
+            <summary>
+  Contains IFrame metadata.
+</summary>
+        </member>
+        <member name="T:TIS.Imaging.FrameType">
+            <summary>
+Contains a definition of the type of a Frame or ImageBuffer. The subtype or FourCC defines the format of the data in the image. Width and HEight define the dimensions of the
+frame. BufferSize describes the actual memory size of the frame.
+</summary>
+        </member>
+    </members>
+</doc>

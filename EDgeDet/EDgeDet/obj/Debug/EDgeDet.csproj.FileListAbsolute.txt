@@ -1,0 +1,409 @@
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe.config
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\bin\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csprojResolveAssemblyReference.cache
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form1.resources
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Properties.Resources.resources
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.GenerateResource.Cache
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\obj\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\obj\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe.config
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form1.resources
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Properties.Resources.resources
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.GenerateResource.Cache
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form2.resources
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\x64\concrt140.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\x64\cvextern.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\x64\msvcp140.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\x64\opencv_ffmpeg320_64.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\x64\vcruntime140.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\x86\concrt140.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\x86\cvextern.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\x86\msvcp140.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\x86\opencv_ffmpeg320.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\x86\vcruntime140.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\ZedGraph.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.xml
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.xml
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\ZedGraph.xml
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.AssemblyReference.cache
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CoreCompileInputs.cache
+C:\Users\poyra\Desktop\TÜBİTAK\EdgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CopyComplete
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\x64\concrt140.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\x64\cvextern.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\x64\msvcp140.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\x64\opencv_ffmpeg320_64.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\x64\vcruntime140.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\x86\concrt140.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\x86\cvextern.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\x86\msvcp140.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\x86\opencv_ffmpeg320.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\x86\vcruntime140.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe.config
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\ZedGraph.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.xml
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.xml
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\ZedGraph.xml
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.AssemblyReference.cache
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form1.resources
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form2.resources
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Properties.Resources.resources
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.GenerateResource.cache
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CoreCompileInputs.cache
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CopyComplete
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\EDgeDet\EDgeDet\EDgeDet\obj\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\concrt140.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\cvextern.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\msvcp140.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\opencv_ffmpeg320_64.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\vcruntime140.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\concrt140.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\cvextern.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\msvcp140.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\opencv_ffmpeg320.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\vcruntime140.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe.config
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\ZedGraph.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.xml
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.xml
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\ZedGraph.xml
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.AssemblyReference.cache
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form1.resources
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form2.resources
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Properties.Resources.resources
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.GenerateResource.cache
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CoreCompileInputs.cache
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CopyComplete
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Math.dll
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.xml
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.xml
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\poyra\Desktop\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Math.xml
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\concrt140.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\cvextern.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\msvcp140.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\opencv_ffmpeg320_64.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\vcruntime140.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\concrt140.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\cvextern.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\msvcp140.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\opencv_ffmpeg320.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\vcruntime140.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe.config
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ZedGraph.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Math.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.xml
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.xml
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.xml
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.xml
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ZedGraph.xml
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Math.xml
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.AssemblyReference.cache
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form1.resources
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form2.resources
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Properties.Resources.resources
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.GenerateResource.cache
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CoreCompileInputs.cache
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CopyComplete
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\TIS.Imaging.ICImagingControl35.dll
+C:\Users\poyra\Desktop\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\TIS.Imaging.ICImagingControl35.xml
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\concrt140.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\cvextern.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\msvcp140.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\opencv_ffmpeg320_64.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\vcruntime140.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\concrt140.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\cvextern.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\msvcp140.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\opencv_ffmpeg320.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\vcruntime140.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe.config
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.pdb
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\TIS.Imaging.ICImagingControl35.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ZedGraph.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Math.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.xml
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.xml
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.xml
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.xml
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\TIS.Imaging.ICImagingControl35.xml
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ZedGraph.xml
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Math.xml
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.AssemblyReference.cache
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form1.resources
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form2.resources
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Properties.Resources.resources
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.GenerateResource.cache
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CoreCompileInputs.cache
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CopyComplete
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.exe
+C:\Users\kuvvet\Desktop\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.pdb
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\concrt140.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\cvextern.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\msvcp140.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\opencv_ffmpeg320_64.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\vcruntime140.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\concrt140.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\cvextern.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\msvcp140.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\opencv_ffmpeg320.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\vcruntime140.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe.config
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.pdb
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\TIS.Imaging.ICImagingControl35.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ZedGraph.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Math.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.xml
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.xml
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.xml
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.xml
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\TIS.Imaging.ICImagingControl35.xml
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ZedGraph.xml
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Math.xml
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.AssemblyReference.cache
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form1.resources
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form2.resources
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Properties.Resources.resources
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.GenerateResource.cache
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CoreCompileInputs.cache
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CopyComplete
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.exe
+C:\Users\kuvvet\Desktop\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\concrt140.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\cvextern.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\msvcp140.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\opencv_ffmpeg320_64.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\vcruntime140.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\concrt140.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\cvextern.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\msvcp140.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\opencv_ffmpeg320.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\vcruntime140.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe.config
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\TIS.Imaging.ICImagingControl35.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ZedGraph.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Math.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.xml
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.xml
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.xml
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.xml
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\TIS.Imaging.ICImagingControl35.xml
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ZedGraph.xml
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\AForge.Math.xml
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.AssemblyReference.cache
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form1.resources
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form2.resources
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Properties.Resources.resources
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.GenerateResource.cache
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CoreCompileInputs.cache
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CopyComplete
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\New folder\sonhali\son\son\Yeni klasör\C#Projem\EDgeDet\EDgeDet\obj\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\x64\concrt140.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\x64\cvextern.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\x64\msvcp140.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\x64\opencv_ffmpeg320_64.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\x64\vcruntime140.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\x86\concrt140.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\x86\cvextern.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\x86\msvcp140.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\x86\opencv_ffmpeg320.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\x86\vcruntime140.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe.config
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\EDgeDet.pdb
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\AForge.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\TIS.Imaging.ICImagingControl35.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\ZedGraph.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\AForge.Math.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\AForge.xml
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.xml
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.UI.xml
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\Emgu.CV.World.xml
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\TIS.Imaging.ICImagingControl35.xml
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\ZedGraph.xml
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\AForge.Math.xml
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.AssemblyReference.cache
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form1.resources
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Form2.resources
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\obj\Debug\EDgeDet.Properties.Resources.resources
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.GenerateResource.cache
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CoreCompileInputs.cache
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\obj\Debug\EDgeDet.csproj.CopyComplete
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\obj\Debug\EDgeDet.exe
+C:\Users\poyra\Desktop\TÜBITAK\ProjecC#\EDgeDet\EDgeDet\obj\Debug\EDgeDet.pdb
